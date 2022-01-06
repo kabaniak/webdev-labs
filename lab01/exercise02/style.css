@@ -14,7 +14,7 @@ Feel free to borrow from Exercise 1.
 
 section {
   margin: 10px;
-  border: solid 5px #83c274;
+  border: solid 5px #aaa;
   padding-bottom: 20px;
   background-color: #cef1f6;
 }
@@ -28,7 +28,6 @@ h2, p, button {
 img {
   width: 100%;
   height: auto;
-  /*border: solid 5px #83c274;*/
 }
 
 main {
