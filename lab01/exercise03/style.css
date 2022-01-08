@@ -3,7 +3,8 @@ body * {
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Chango';
+    background-color: #281f4f;
 }
 
 /*
@@ -13,13 +14,15 @@ Feel free to borrow from Exercise 1.
 
 section {
   margin: 10px;
-  border: solid 1px #ccc;
+  border: solid 5px #aaa;
   padding-bottom: 20px;
+  background-color: #cef1f6;
 }
 
 h2, p, button {
   margin-left: 20px;
   margin-right: 20px;
+  color: #281f4f;
 }
 
 img {
