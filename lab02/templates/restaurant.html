@@ -15,7 +15,7 @@
         <section>
             <h2>{{restaurant.get('name')}}</h2>
             <h4> {{restaurant.get('rating')}} stars</h4>
-            <img src="{{restaurant.get('image_url')}}" alt="picture of nature" />
+            <img src="{{restaurant.get('image_url')}}" alt="{{restaurant.get('name')}}" />
             <p><b>Address:</b> {{restaurant.get('display_address')}}</p>
             <p><b>Price:</b> {{restaurant.get('price')}}</p>
             <p><b>Reviews:</b> {{restaurant.get('review_count')}}</p>
